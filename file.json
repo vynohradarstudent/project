@@ -1,4 +1,39 @@
 {
-    "test": "This is a test JSON file.",
-    "version": "1.0.0"
+    "users": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "surname": "Smith",
+            "photo_url": "https://example.com/photos/alice.jpg",
+            "balance": 2500.75
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "surname": "Johnson",
+            "photo_url": "https://example.com/photos/bob.jpg",
+            "balance": 1500.00
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "surname": "Brown",
+            "photo_url": "https://example.com/photos/charlie.jpg",
+            "balance": 3200.50
+        },
+        {
+            "id": 4,
+            "name": "Diana",
+            "surname": "Prince",
+            "photo_url": "https://example.com/photos/diana.jpg",
+            "balance": 4100.00
+        },
+        {
+            "id": 5,
+            "name": "Ethan",
+            "surname": "Hunt",
+            "photo_url": "https://example.com/photos/ethan.jpg",
+            "balance": 2750.25
+        }
+    ]
 }
