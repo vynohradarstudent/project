@@ -1,4 +1,39 @@
 {
-    "test": "This is a test JSON file.",
-    "version": "1.0.0"
+    "users": [
+        {
+            "id": 1,
+            "name": "Andriy",
+            "surname": "Moskovenko",
+            "photo_url": "https:photoshop.com",
+            "balance": 777
+        },
+        {
+            "id": 2,
+            "name": "Andriy",
+            "surname": "Malenkiy",
+            "photo_url": "https:photoshop.com",
+            "balance": 777
+        },
+        {
+            "id": 3,
+            "name": "Andriy",
+            "surname": "Ponosik",
+            "photo_url": "https:photoshop.com",
+            "balance": 777
+        },
+        {
+            "id": 4,
+            "name": "Andriy",
+            "surname": "Karpk",
+            "photo_url": "https:photoshop.com",
+            "balance": 777
+        },
+        {
+            "id": 5,
+            "name": "Andriy",
+            "surname": "Junik",
+            "photo_url": "https:photoshop.com",
+            "balance": 777
+        }
+    ]
 }
