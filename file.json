@@ -1,6 +1,7 @@
 {
     "users": [
         {
+
             "id": 0,
             "name": "Noname",
             "surname": "Name",
@@ -34,6 +35,43 @@
             "surname": "Dodep",
             "photo_url": "https://i1.sndcdn.com/artworks-cLsJ9mZGoYQxAMfy-ngEFMw-t240x240.jpg",
             "balance": 0
+        },
+        }
+
+            "id": 5,
+            "name": "Alice",
+            "surname": "Smith",
+            "photo_url": "https://example.com/photos/alice.jpg",
+            "balance": 2500.75
+        },
+        {
+            "id": 6,
+            "name": "Bob",
+            "surname": "Johnson",
+            "photo_url": "https://example.com/photos/bob.jpg",
+            "balance": 1500.00
+        },
+        {
+            "id": 7,
+            "name": "Charlie",
+            "surname": "Brown",
+            "photo_url": "https://example.com/photos/charlie.jpg",
+            "balance": 3200.50
+        },
+        {
+            "id": 8,
+            "name": "Diana",
+            "surname": "Prince",
+            "photo_url": "https://example.com/photos/diana.jpg",
+            "balance": 4100.00
+        },
+        {
+            "id": 9,
+            "name": "Ethan",
+            "surname": "Hunt",
+            "photo_url": "https://example.com/photos/ethan.jpg",
+            "balance": 2750.25
+
         }
     ]
 }
