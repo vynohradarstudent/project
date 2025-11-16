@@ -1,4 +1,39 @@
 {
-    "test": "This is a test JSON file.",
-    "version": "1.0.0"
+    "users": [
+        {
+            "id": 0,
+            "name": "Noname",
+            "surname": "Name",
+            "photo_url": "https://www.ukcybersecurity.co.uk/wp-content/uploads/Depositphotos_63221229_XL.jpg",
+            "balance": 2000
+        },
+        {
+            "id":1,
+            "name": "Scot",
+            "surname": "Tumba",
+            "photo_url": "https://cube44.com.ua/wp-content/uploads/2016/09/miniatyura-tumba.jpg",
+            "balance": 3000
+        },
+        {    
+            "id": 2,
+            "name": "Invalid",
+            "surname": "Error",
+            "photo_url": "https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/000-http-error-codes.png",
+            "balance": 2000
+        },
+        {
+            "id": 3,
+            "name": "Anton",
+            "surname": "oliya",
+            "photo_url": "https://img.freepik.com/free-photo/soybean-oil-soybean-food-beverage-products-food-nutrition-concept_1150-26348.jpg?semt=ais_incoming&w=740&q=80",
+            "balance": 1000
+        },
+        {
+            "id": 4,
+            "name": "Nikita",
+            "surname": "Dodep",
+            "photo_url": "https://i1.sndcdn.com/artworks-cLsJ9mZGoYQxAMfy-ngEFMw-t240x240.jpg",
+            "balance": 0
+        }
+    ]
 }
