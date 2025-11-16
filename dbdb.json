@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Max",
+      "surname": "Victorenko",
+      "photo_url": "https://i.pinimg.com/236x/07/d7/1e/07d71e6d326549c53e3970b374e79972.jpg",
+      "balance": 1
+    },
+    {
+        "id": 2,
+        "name": "Muhammed",
+        "surname": "Aliment",
+        "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaD3iglxnk9yCgJCyz9drRIcp0tZ1SwkqKZA&s",
+        "balance": 9999999999
+    },
+    {
+        "id": 3,
+        "name": "Woman",
+        "surname": "Rabota",
+        "photo_url": "https://w7.pngwing.com/pngs/298/559/png-transparent-desk-sitting-silhouette-woman-working-furniture-animals-hand-thumbnail.png",
+        "balance": 20
+    },
+    {
+        "id": 4,
+        "name": "Vitya",
+        "surname": "Obama",
+        "photo_url": "https://i.scdn.co/image/ab67616100005174b3d5eefed85502434a989bf8",
+        "balance": 0
+    },
+    {
+        "id": 5,
+        "name": "Allo",
+        "surname": "Allomenko",
+        "photo_url": "https://to4ka.fun/wp-content/uploads/2023/05/ALLO-9.jpg",
+        "balance": 0
+      }
+  ]
+}
